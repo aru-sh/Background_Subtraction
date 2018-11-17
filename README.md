@@ -6,7 +6,8 @@ I have implemented Background Subtraction using two techniques:
 2. Deep Convolutional Networks
 
 I will be uploading Frame Differencing method as of now
-1. Frame Differencing
+
+#Frame Differencing
 Requirements:
 Python 3
 Opencv
