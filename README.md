@@ -7,7 +7,7 @@ I have implemented Background Subtraction using two techniques:
 
 I will be uploading Frame Differencing method as of now
 
-#Frame Differencing
+<b>Frame Differencing<b><br/>
 Requirements:
 Python 3
 Opencv
